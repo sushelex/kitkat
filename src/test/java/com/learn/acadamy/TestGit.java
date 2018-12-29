@@ -12,5 +12,10 @@ public class TestGit {
 	{
 		System.out.println("new git method");
 	}
+	
+	public void getGitGit(String str)
+	{
+		System.out.println("new another method");
+	}
 
 }
