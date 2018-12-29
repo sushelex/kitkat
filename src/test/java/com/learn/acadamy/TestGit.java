@@ -7,5 +7,10 @@ public class TestGit {
 		System.out.println("Testing git push and pull");
 
 	}
+	
+	public void getGit(String str)
+	{
+		System.out.println("new git method");
+	}
 
 }
