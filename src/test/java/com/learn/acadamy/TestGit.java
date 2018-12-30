@@ -17,5 +17,12 @@ public class TestGit {
 	{
 		System.out.println("new another method");
 	}
+	
+	
+	public void getAfterNewBranch(String str)
+	{
+		System.out.println("method after new branch");
+	}
+
 
 }
