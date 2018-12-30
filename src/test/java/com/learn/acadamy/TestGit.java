@@ -21,7 +21,7 @@ public class TestGit {
 	
 	public void getAfterNewBranch(String str)
 	{
-		System.out.println("method after new branch");
+		System.out.println("method after new branch  ");
 	}
 
 
